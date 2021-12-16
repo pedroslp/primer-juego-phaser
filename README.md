@@ -33,14 +33,16 @@ Lo descargarás según el sistema operativo que tengas. Si no sabes como instala
 ```
 
 _https://code.visualstudio.com/docs/setup/linux_
+
 _https://code.visualstudio.com/docs/setup/mac_
+
 _https://code.visualstudio.com/docs/setup/windows_
 
 ```
 El último pre-requisito sería instalar una extensión de vscode mencionada anteriormente: "Live Server".
 ```
 
-![Live Server](https://drive.google.com/file/d/10peAJTyWObumBMsUf_TUOF4Zvo_9GNsE/view)
+![Live Server](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/live-server.png)
 
 ```
 Por último, necesitarás el proyecto para posteriormente desplegarlo.
@@ -50,17 +52,17 @@ Por último, necesitarás el proyecto para posteriormente desplegarlo.
 
 _Una vez instalado todo, para su despliegue nos iremos al vscode, y abriremos el proyecto._
 
-![Abrir proyecto](https://drive.google.com/file/d/1mztza1amUXjLNcZ_RxK51S1yFzididA_/view)
+![Abrir proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/open-project.png)
 
 _Cuando hayamos abierto el proyecto, para desplegar nuestro juego, iremos al archivo index.html. A dicho archivo le damos click derecho, y le damos a Open with Live Server. O también podemos abajo derecha, dando click a Go Live._
 
-![Desplegar proyecto](https://drive.google.com/file/d/1YJ-q2fyyk36RaDodPjQ8kC7OTsQG1QEz/view)
+![Desplegar proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/deployment.png)
 
-![Desplegar proyecto](https://drive.google.com/file/d/16o8ZWvnklefio5Kz_dDAp-dZaZ1DWDK1/view)
+![Desplegar proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/deployment-2.png)
 
 _Si has realizado correctamente los pasos, se habrá abierto el navegador que uses, con el juego desplegado 👏🏼 🎉_
 
-![Juego desplegado](https://drive.google.com/file/d/1unIQyfx7KygiLVrowUzqIps419xj3w6D/view)
+![Juego desplegado](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/game-displayed.png)
 
 ## Construido con 🛠️
 
