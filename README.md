@@ -42,7 +42,7 @@ _https://code.visualstudio.com/docs/setup/windows_
 El último pre-requisito sería instalar una extensión de vscode mencionada anteriormente: "Live Server".
 ```
 
-![Live Server](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/live-server.png)
+![Live Server](https://raw.githubusercontent.com/pedroslp/primer-juego-phaser/master/assets/images/live-server.png)
 
 ```
 Por último, necesitarás el proyecto para posteriormente desplegarlo.
@@ -52,17 +52,17 @@ Por último, necesitarás el proyecto para posteriormente desplegarlo.
 
 _Una vez instalado todo, para su despliegue nos iremos al vscode, y abriremos el proyecto._
 
-![Abrir proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/open-project.png)
+![Abrir proyecto](https://raw.githubusercontent.com/pedroslp/primer-juego-phaser/master/assets/images/open-project.png)
 
 _Cuando hayamos abierto el proyecto, para desplegar nuestro juego, iremos al archivo index.html. A dicho archivo le damos click derecho, y le damos a Open with Live Server. O también podemos abajo derecha, dando click a Go Live._
 
-![Desplegar proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/deployment.png)
+![Desplegar proyecto](https://raw.githubusercontent.com/pedroslp/primer-juego-phaser/master/assets/images/deployment.png)
 
-![Desplegar proyecto](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/deployment-2.png)
+![Desplegar proyecto](https://raw.githubusercontent.com/pedroslp/primer-juego-phaser/master/assets/images/deployment-2.png)
 
 _Si has realizado correctamente los pasos, se habrá abierto el navegador que uses, con el juego desplegado 👏🏼 🎉_
 
-![Juego desplegado](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/images/game-displayed.png)
+![Juego desplegado](https://raw.githubusercontent.com/pedroslp/primer-juego-phaser/master/assets/images/game-displayed.png)
 
 ## Construido con 🛠️
 
